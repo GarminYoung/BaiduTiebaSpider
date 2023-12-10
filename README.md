@@ -1,0 +1,2 @@
+# BaiduTiebaSpider
+使用python编写的用于爬取百度贴吧数据的爬虫
